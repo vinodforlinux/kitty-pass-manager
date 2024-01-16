@@ -6,7 +6,7 @@ Note: This is tested in Ubuntu 20.04 and kitty terminal version: 0.31.0. But it 
 ## Prerequisites:
    --------------
 1. kitty terminal
-2. pass - a simple password manager for linux (Can be easily installed using apt install pass)
+2. [pass](https://www.passwordstore.org/) - a simple password manager for linux (Can be easily installed using apt install pass) or useful link for pass (https://opensource.com/article/22/1/manage-passwords-linux-terminal)
 3. fzf - fuzzi finder installed (Can be easily installed using apt install fzf)
 
 ## Installation
